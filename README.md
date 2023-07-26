@@ -21,8 +21,7 @@ A highly motivated computer science and Engineering Student who enjoys solving N
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shravan-das&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shravan-das&icon=0&color=0)](https://visitcount.itsvg.in)
