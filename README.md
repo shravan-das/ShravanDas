@@ -1,5 +1,6 @@
 # 💫 About Me:
-A highly motivated computer science and Engineering Student who enjoys solving New Challenging Problems.<br><br>Currently deepdiving myself into Data Structures And Algorithms<br><br>Iam proficient in programming languages primaly cpp and java<br><br> Exploring the field of machine learning and web development<br><br>I believe that the skills that I have acquired from the dynamic environment and competitive university life define me and I am looking forward to implementing and polishing them in any career opportunity that I receive.
+Shravan a dedicated computer science and engineering student, deeply immersed in the realms of Data Structures and Algorithms. Proficient in programming languages, particularly C++ and Java, I have honed my skills through the dynamic environment and competitive challenges of university life.My journey extends beyond the traditional, as I explore the machine learning and web development.
+The skills I've acquired and the lessons learned in this ever-evolving landscape define me. Eager to contribute meaningfully, I am actively seeking opportunities to implement and further refine my expertise. I look forward to the prospect of applying my knowledge to real-world challenges and making a valuable impact in the field.
 
 
 ## 🌐 Socials:
